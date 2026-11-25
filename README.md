@@ -8,9 +8,9 @@
 | [developer-portfolio](https://github.com/animayroy2007off/developer-portfolio) | This portfolio index | Markdown | Active |
 ---
 ## Current Skills
-Python [██████████░░░░░░░░░░] 50%  
-Linux / Bash [████████░░░░░░░░░░░░] 40%  
-Git / GitHub [██████████░░░░░░░░░░] 50%  
+Python [██████████░░░░░░░░░░] 50%    
+Linux / Bash [████████░░░░░░░░░░░░] 40%    
+Git / GitHub [██████████░░░░░░░░░░] 50%    
 ---
 ## Learning Roadmap
 See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-semester plan.
